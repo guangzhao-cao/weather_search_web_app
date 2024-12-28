@@ -12,7 +12,7 @@
 ## State Selection
 <img width="1048" alt="截屏2024-12-27 下午8 08 02" src="https://github.com/user-attachments/assets/a988d351-aca3-4d40-a475-281787174b50" />
 
-## Location Auto Completion
+## Location Auto Detection
 <img width="338" alt="截屏2024-12-27 下午8 08 27" src="https://github.com/user-attachments/assets/f3d03d3b-10c4-4994-ba96-56cc7e7cb366" />
 
 ## Clickable Weather forcast for the next 7 days
