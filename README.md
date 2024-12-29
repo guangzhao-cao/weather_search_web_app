@@ -1,4 +1,5 @@
 # Weather Search Web App
+If you are curious about the source code, please contact me via email at: bradley.cao21@gmail.com
 
 ## Landing page
 <img width="1125" alt="截屏2024-12-27 下午8 05 40" src="https://github.com/user-attachments/assets/92dadda3-3530-49c2-a702-3907b9c641c0" />
@@ -36,5 +37,3 @@
 ## Favorite button and faovrite tab
 <img width="232" alt="截屏2024-12-27 下午8 15 18" src="https://github.com/user-attachments/assets/6b607e04-ccf5-4062-b6ce-c3702453f3c0" />
 <img width="1244" alt="截屏2024-12-27 下午8 16 01" src="https://github.com/user-attachments/assets/3c5770b4-517e-416c-87a3-a08e3fc60e76" />
-
-If you want to access the source code, please contact me at bradley.cao21@gmail.com
